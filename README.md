@@ -52,7 +52,7 @@ Attack simulations were performed from Kali Linux while Wazuh and Suricata monit
                        ▼
               Wazuh Dashboard
 
-              ---
+---              
 
 ## Technologies Used
 
