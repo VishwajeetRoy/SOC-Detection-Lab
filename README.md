@@ -237,6 +237,14 @@ Alerts generated included:
 
 ---
 
+## Overall Threat Hunting Dashboard
+
+After performing all attack simulations, the Wazuh Threat Hunting dashboard displayed aggregated security events including authentication failures, authentication successes, system events, and alert trends over time. This provides analysts with a centralized view for monitoring and investigating security incidents.
+
+![Final Dashboard](screenshots/14-final-dashboard.png)
+
+---
+
 # MITRE ATT&CK Mapping
 
 | Attack | MITRE Technique | Description |
